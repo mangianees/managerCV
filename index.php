@@ -21,7 +21,7 @@
 
 <body>
 
-<div id="navbar">
+<div class="headingss" id="navbar">
   <a href="#summary">Summary</a>
   <a href="#core">Core Competencies</a>
   <a href="#experience">Experience</a>

@@ -149,8 +149,8 @@
                             <p>2005 – 2018</p>
                         </div>
                         <div class="col-sm-8">
-                            <h6>Manager (National Database and Registration Authority)</h6>
-                            <h6>Pakistan Consulate Birmingham (Government Organization)</h6>
+                            <h6>Manager ( National Database and Registration Authority )</h6>
+                            <h6>Pakistan Consulate Birmingham ( Government Organization )</h6>
                         </div>
 <br>                        
 
@@ -178,7 +178,7 @@
                             <p>2003 – 2005</p>
                         </div>
                         <div class="col-sm-8">
-                            <h6>System Engineer (Cosmos Communication Pvt Ltd)</h6>
+                            <h6>System Engineer ( Cosmos Communication Pvt Ltd )</h6>
                         </div>
 <br>                        
 
@@ -208,7 +208,7 @@
                     <h6>Education</h6>
                 <ul>
                     <li>
-                    <h6>M B A (Management Information Systems)</h6>
+                    <h6>M B A ( Management Information Systems )</h6>
                     </li>
                     <li>
                     <h6>Bachelor in Computer Science</h6>

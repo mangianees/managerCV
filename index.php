@@ -39,7 +39,7 @@
 <div class="icon-bar">
   <a href="https://www.facebook.com/aneesmangichak/" target="_blank"><i class="fa fa-facebook"></i></a> 
   <a href="https://twitter.com/mangianees" target="_blank"><i class="fa fa-twitter"></i></a> 
-  <a href="https://www.linkedin.com/in/anees-mangi-60947118/" target="_blank"><i class="fa fa-linkedin"></i></a>
+  <a href="https://www.linkedin.com/in/anees-mangi-772641181/" target="_blank"><i class="fa fa-linkedin"></i></a>
   
 </div>
 <section id="summary"> </section>
